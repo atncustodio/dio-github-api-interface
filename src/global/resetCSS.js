@@ -37,8 +37,10 @@ html {
  */
 
 body {
-  margin: 0;
+  margin:auto;
   font-family: roboto,sans-serif;
+  width: 65%;
+  background-color: #eeede7;
 }
 
 /**
